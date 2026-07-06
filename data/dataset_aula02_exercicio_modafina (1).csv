@@ -1,5 +1,5 @@
 data_venda,categoria_produto,tamanho,preco,quantidade,estado,forma_pagamento,nota_avaliacao
-2024-01-01,Calças,           G,      177.95,1,        SP,    Boleto,         4.1
+2024-01-01,Calças,G,177.95,1,SP,Boleto,4.1
 2024-01-01,Camisetas,G,52.12,1,SP,Cartão,4.3
 2024-01-03,Calças,G,213.45,3,PR,Pix,3.9
 2024-01-03,Camisetas,M,76.81,1,RJ,Pix,4.9
